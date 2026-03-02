@@ -69,7 +69,7 @@ mvn test
 
 ## Stack
 
-- Java 17, no frameworks
+- Java 17
 - Jackson for JSON
 - SLF4J + Logback for logging
 - JUnit 5 for tests
